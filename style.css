@@ -1,0 +1,61 @@
+body {
+  background-color: #ECF8F8;
+  font-family: 'Rancho', cursive;
+  text-align: center;
+}
+
+div {
+  width: 100vw;
+  margin: 20px;
+}
+
+h1 {
+  margin: 0px;
+  color: #ECF8F8;
+  font-size: 5vw;
+  text-shadow: 2px 2px #B399A2;
+  border-bottom: 5px dashed white;
+}
+
+h2 {
+  color: #F7F3E3;
+}
+
+img {
+  margin: 5px;
+  width: 30vw;
+  height: 30vh;
+  object-fit: cover;
+}
+
+.heading {
+  background-color: #BADDF4;
+}
+
+.about {
+  background-color: #B399A2;
+}
+
+.favs {
+  background-color: #BADDF4;
+}
+
+#title {
+  font-size: 7vw;
+  border: none;
+}
+
+#full {
+  margin: 15px;
+  width: 40vw;
+  height: 40vh;
+}
+
+#bluebg {
+  color: #B399A2;
+  text-shadow: 2px 2px #ECF8F8;
+}
+
+#purplebg {
+  text-shadow: 2px 2px #C1CAD6;
+}
